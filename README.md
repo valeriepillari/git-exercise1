@@ -1,2 +1,2 @@
 # git-exercise1
-Hello world!
+Hello world! Small change
